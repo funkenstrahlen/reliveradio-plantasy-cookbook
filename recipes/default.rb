@@ -7,10 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package "imagemagick" do
-  action :install
-end
-
-package "taglib" do
-  action :install
-end
+package "imagemagick"
+package "taglib"
