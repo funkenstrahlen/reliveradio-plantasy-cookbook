@@ -8,4 +8,4 @@
 #
 
 package "imagemagick"
-package "taglib"
+package "libtag1-dev"
