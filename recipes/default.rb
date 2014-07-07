@@ -9,3 +9,6 @@
 
 package "imagemagick"
 package "libtag1-dev"
+package "vim"
+package "screen"
+package "htop"
